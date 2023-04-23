@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Prasad\\source\\repos\\DemoGitHub\\DemoGitHub.csproj": {}
+    "D:\\DemoGitHub\\DemoGitHub.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Prasad\\source\\repos\\DemoGitHub\\DemoGitHub.csproj": {
+    "D:\\DemoGitHub\\DemoGitHub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Prasad\\source\\repos\\DemoGitHub\\DemoGitHub.csproj",
+        "projectUniqueName": "D:\\DemoGitHub\\DemoGitHub.csproj",
         "projectName": "DemoGitHub",
-        "projectPath": "C:\\Users\\Prasad\\source\\repos\\DemoGitHub\\DemoGitHub.csproj",
+        "projectPath": "D:\\DemoGitHub\\DemoGitHub.csproj",
         "packagesPath": "C:\\Users\\Prasad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Prasad\\source\\repos\\DemoGitHub\\obj\\",
+        "outputPath": "D:\\DemoGitHub\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Prasad\\AppData\\Roaming\\NuGet\\NuGet.Config",
